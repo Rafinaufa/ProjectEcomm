@@ -1,4 +1,4 @@
 # ProjectEcomm
 project ecommers di buat:
-NAMA: Rafi Naufa Subekkti
-NIM : A22.2019.02780
+ Rafi Naufa Subekti
+  A22.2019.02780
